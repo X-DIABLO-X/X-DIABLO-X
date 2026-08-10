@@ -2,6 +2,12 @@
 
 I build practical desktop apps, backends, and polished developer tools. I enjoy taking an idea from a clean interface through to a reliable deployment.
 
+## Now
+
+<a href="https://readme.cypherion.tech/redirect">
+  <img src="https://readme.cypherion.tech/api/now-playing.svg" alt="My live Apple Music or Crunchyroll activity" width="500" />
+</a>
+
 ## What I work with
 
 - Rust, Tauri, and Windows desktop development
